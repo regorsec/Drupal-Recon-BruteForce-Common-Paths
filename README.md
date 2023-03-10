@@ -6,15 +6,15 @@
 <h3>HOW TO RUN THIS SCRIPT:</h3>
 ✅ python3 -t http://example.com Drupal_Recon_BruteForce_Common_Paths.py
 
-<br><br>
+<br>
 
 <h3>Features: </h3>
-✅ "?q=node/$n"
+✅ Find pages: "?q=node/$n"
 <br>
-✅ "taxonomy/term/$n"
+✅ Find Taxonomy Term pages: "taxonomy/term/$n"
 <br>
-✅ "user/$n"
-<br>
+✅ Find User pages: "user/$n"
+
 
 <h3>TO DO:</h3>
 - Add more cool things
